@@ -160,7 +160,7 @@ button{
     position: relative;
     text-align: center;
 }
-@media (max-width: 41em) {
+@media (min-width: 375px) and (max-width:1440px) {
     .result-summary{
       grid-template-columns: 40rem;
     }
