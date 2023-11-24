@@ -158,7 +158,6 @@ button{
 .attribution {
     font-size:15px;
     position: relative;
-    bottom: 20px;
     text-align: center;
 }
 @media (max-width: 41em) {
