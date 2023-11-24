@@ -156,7 +156,6 @@ button{
    font-size: 18px;
 }
 .attribution {
-    font: size 13px;
     position: relative;
     bottom: 50px;
 }
@@ -169,7 +168,6 @@ button{
   .attribution {
     font-size: 20px;
     text-align: center;
-    margin-bottom: 20px;
   }
   .attribution a {
     color: hsl(228, 45%, 44%);
