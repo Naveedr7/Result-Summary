@@ -156,18 +156,15 @@ button{
    font-size: 18px;
 }
 .attribution {
+    font-size:15px;
     position: relative;
     bottom: 50px;
+    text-align: center;
 }
 @media (max-width: 41em) {
     .result-summary{
       grid-template-columns: 40rem;
     }
-  }
-  
-  .attribution {
-    font-size: 20px;
-    text-align: center;
   }
   .attribution a {
     color: hsl(228, 45%, 44%);
